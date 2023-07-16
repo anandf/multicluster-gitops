@@ -166,5 +166,5 @@ spec:
                   - ServerSideApply={{or .serverSideApply false}}
 
   placementRefs:
-  - name: demo-clusters
+  - name: app-platform-clusters
 EOF

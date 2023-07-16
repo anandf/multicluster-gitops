@@ -1,0 +1,1 @@
+kubectl apply --server-side=true --context kind-hub -f argocd-install.yaml

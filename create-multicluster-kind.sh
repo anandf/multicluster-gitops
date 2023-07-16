@@ -33,4 +33,3 @@ kubectl get managedclusters --all-namespaces --context ${hubctx}
 
 sleep 10
 
-clusteradm clusterset bind default --namespace default --context kind-hub

@@ -66,5 +66,5 @@ spec:
             syncOptions:
             - CreateNamespace=true
   placementRefs:
-  - name: demo-clusters
+  - name: app-platform-clusters
 EOF

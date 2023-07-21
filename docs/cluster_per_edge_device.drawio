@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="-RQJnHNUL1bMwbcudZb_" name="Page-1">
+        <mxGraphModel dx="1005" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="13" style="edgeStyle=none;html=1;startArrow=classic;startFill=1;" parent="1" source="4" edge="1" target="25">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="205" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;startArrow=classic;startFill=1;entryX=0.441;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4" edge="1" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="294" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;startArrow=classic;startFill=1;" parent="1" source="4" target="28" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="376.03999999999996" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
+                    <mxGeometry x="344.79" y="330" width="62.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="IOT&lt;br&gt;Device" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="214.79" y="527" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Connected&lt;br&gt;Vehicle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="333.04" y="532" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Admin (Hub)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="333.75" y="290" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.aws_iot;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="476" width="39.79" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/other/Connected_Vehicle_Platform.svg;" vertex="1" parent="1">
+                    <mxGeometry x="333.04" y="480" width="68" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="481" width="25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="BTS Edge&lt;br&gt;Device" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="452.5" y="526" width="80" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

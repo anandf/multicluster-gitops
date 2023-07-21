@@ -51,17 +51,32 @@
                 <mxCell id="19" value="Sales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="520" y="530" width="50" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
+                <mxCell id="21" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
                     <mxGeometry x="428.96" y="480" width="52.08" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
+                <mxCell id="22" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
                     <mxGeometry x="518.96" y="480" width="52.08" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
+                <mxCell id="23" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
                     <mxGeometry x="267.71000000000004" y="480" width="52.08" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
+                <mxCell id="24" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
                     <mxGeometry x="178.95999999999998" y="480" width="52.08" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/migrate/Cost_Management_and_Billing.svg;" vertex="1" parent="1">
+                    <mxGeometry x="191.04" y="565" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/migrate/Cost_Management_and_Billing.svg;" vertex="1" parent="1">
+                    <mxGeometry x="278.75" y="565" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/migrate/Cost_Management_and_Billing.svg;" vertex="1" parent="1">
+                    <mxGeometry x="362.08" y="565" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/migrate/Cost_Management_and_Billing.svg;" vertex="1" parent="1">
+                    <mxGeometry x="441.04" y="565" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/migrate/Cost_Management_and_Billing.svg;" vertex="1" parent="1">
+                    <mxGeometry x="525" y="565" width="40" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
